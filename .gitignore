@@ -1,0 +1,5 @@
+# .gitignore ファイルの内容
+.env
+__pycache__/
+*.pyc
+output_images/
